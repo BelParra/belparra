@@ -12,7 +12,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-
+# ![snake gif](https://github.com/BelParra/BelParra/blob/output/github-contribution-grid-snake.gif)
 
 ### Conecte-se comigo:
 
